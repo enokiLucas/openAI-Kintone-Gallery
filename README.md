@@ -1,6 +1,10 @@
 # Build an OpenAI Art Generator & Gallery - JavaScript Workshop
 
 ---
+Project completed.
+
+[kintone App](https://enoki-lucas.kintone.com/k/3/)
+---
 
 ![banner.png](./docs/img/banner.png)
 
